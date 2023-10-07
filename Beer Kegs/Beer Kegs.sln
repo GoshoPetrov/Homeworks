@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beer Kegs", "Beer Kegs\Beer Kegs.csproj", "{6379B848-2DAF-4DDD-87BA-832A632DEA15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6379B848-2DAF-4DDD-87BA-832A632DEA15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6379B848-2DAF-4DDD-87BA-832A632DEA15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6379B848-2DAF-4DDD-87BA-832A632DEA15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6379B848-2DAF-4DDD-87BA-832A632DEA15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8864A179-2703-4608-9735-97226A943B9A}
+	EndGlobalSection
+EndGlobal
